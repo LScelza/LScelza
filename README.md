@@ -10,4 +10,4 @@ Si estás buscando una persona para investigación, capacitación y desarrollo d
 
 leonardo.scelza.1@gmail.com
 
-Data Scientist | Data Engineer | Machine Learning | Deep Learning | Capacitación | Python | TensorFlow | Google Cloud
+Data Scientist | Data Engineer | Machine Learning | Deep Learning | Training | Python | TensorFlow | Google Cloud
