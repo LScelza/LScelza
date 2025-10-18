@@ -8,7 +8,7 @@ Estoy abierto a colaborar en proyectos desafiantes que requieran una combinació
 
 Si estás buscando una persona para investigación, capacitación y desarrollo de algoritmos de Machine Learning y Deep Learning, no dudes en contactarme:
 
-+5411 2378 0919
-lscelza@groupsynapseai.com
++5411 4402 9156
+lscelza@synapseaihub.com.ar
 
 Data Scientist | Data Engineer | Machine Learning | Deep Learning | Training | Python | TensorFlow | Google Cloud
